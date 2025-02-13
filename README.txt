@@ -12,7 +12,7 @@ Steps to Run:
 Clone the repository:
 
 
-git clone <repository_url>
+git clone https://github.com/sreeavinashbesiahgari/Bert_Sentiment_Analysis.git
 
 Install the required dependencies:
 
